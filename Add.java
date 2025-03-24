@@ -1,8 +1,8 @@
 public class Add{
   public static void main(String[] args){
-    int a=5;
-    int b=2;
-    int c=a+b;
+    int x=5;
+    int y=2;
+    int z=x+y;
     System.out.println("The sum is:"+c);
   }
 }
